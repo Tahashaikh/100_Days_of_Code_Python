@@ -7,7 +7,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="" />
+    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 5 programs added">
+      <change afterPath="$PROJECT_DIR$/Day-10/DaysInMonth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-6/Link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/CHAT_GPT_HANGMAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/HangMan_Stages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/HangmanWord_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-8/PaintAreaCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-8/PrimeNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-9/DictionaryInList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-9/Grading_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/CHGPT_ISOSERVER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client_UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/ISO8583_sim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/SimpleServerISO8583.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/clientServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-3/LeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/LeapYear.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +66,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-7\HangMan" />
       <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-1" />
     </key>
   </component>
@@ -85,6 +107,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674545769665</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 5 programs added">
+      <created>1675316970660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675316970660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +127,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 5 programs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5 programs added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day-7/HangMan/Hangman.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,12 +1,12 @@
 # Step 1
 import random
-from HangmanWord_List import word_list
+import HangmanWord_List
 from HangMan_Stages import stages
 from HangMan_Stages import logo
 from HangMan_Stages import youLose
 
 print(logo)
-chosen_word = random.choice(word_list)
+chosen_word = random.choice(HangmanWord_List.word_list)
 print(chosen_word)
 
 blank_array = []
@@ -38,7 +38,7 @@ while not game_end:
 
         print(blank_array)
         if '_' not in blank_array:
-            print(youLose)
+            print("YOU WIN !")
             break
     else:
         print("Please Enter Correct Choice")

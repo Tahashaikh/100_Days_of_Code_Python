@@ -7,27 +7,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 5 programs added">
-      <change afterPath="$PROJECT_DIR$/Day-10/DaysInMonth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-6/Link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/CHAT_GPT_HANGMAN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/HangMan_Stages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/HangMan/HangmanWord_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-8/PaintAreaCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-8/PrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-9/DictionaryInList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-9/Grading_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/CHGPT_ISOSERVER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/ISO8583_sim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/SimpleServerISO8583.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/clientServer.py" afterDir="false" />
+    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 10 programs added">
+      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/AI_Practice_BlackJack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/BlackJack_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/BlackJack_Game_2ndTry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/Blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/CompleteBlackJack_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100_Day_of_Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Day_of_Code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/LeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/LeapYear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,43 +51,20 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Playwrite/Playwite_Python/PyCharm/100_Day_of_Code&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/100_Day_of_Code&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-11--BlackJack" />
+      <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-11" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-11--BlackJack" />
       <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-7\HangMan" />
       <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Fuzzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Day_of_Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day-5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day-5/Fuzzbuzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Fuzzbuzz" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675316970660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day 10 programs added">
+      <created>1675841202445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675841202445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,15 +105,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 5 programs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 5 programs added" />
+    <MESSAGE value="Day 10 programs added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 10 programs added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Day-7/HangMan/Hangman.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Server.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Server.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

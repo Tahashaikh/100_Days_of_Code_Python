@@ -7,18 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 10 programs added">
-      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/AI_Practice_BlackJack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/BlackJack_Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/BlackJack_Game_2ndTry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/Blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-11--BlackJack/CompleteBlackJack_Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100_Day_of_Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_Day_of_Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 12 added along with BlackJack and Dummy server">
+      <change afterPath="$PROJECT_DIR$/Day-15/CoffeeMachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-16/Day-16.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-7/HangMan/Hangman.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +20,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Setup Script" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="74ac780a-1a63-4ad6-a951-c75dd57bb6f6" />
+        <option name="url" value="https://github.com/Tahashaikh/100_Days_of_Code_Python.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675841202445</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Day 12 added along with BlackJack and Dummy server">
+      <created>1676524690319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676524690319</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Day 12 added along with BlackJack and Dummy server">
+      <created>1677646322722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677646322722</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 5 programs added" />
     <MESSAGE value="Day 10 programs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 10 programs added" />
+    <MESSAGE value="Day 12 added along with BlackJack and Dummy server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 12 added along with BlackJack and Dummy server" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

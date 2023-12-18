@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 12 added along with BlackJack and Dummy server">
-      <change afterPath="$PROJECT_DIR$/Day-15/CoffeeMachine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/Day-16.txt" afterDir="false" />
+    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 17 added">
+      <change afterPath="$PROJECT_DIR$/Day-19/Turtle_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-20/Snake_Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright/Playwight_Mocha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright/Playwright_Driect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright/chromedriver_win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playwright/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-16/Day-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-17/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-17/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-17/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-17/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-3/PizzaOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/PizzaOrder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +51,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2KlOarGP85OEinuO0dqLM1OEPEe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,12 +63,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/100_Day_of_Code&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/100_Day_of_Code/Playwright&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\100_Day_of_Code\Playwright" />
       <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-11--BlackJack" />
       <recent name="D:\Playwrite\Playwite_Python\PyCharm\100_Day_of_Code\Day-11" />
     </key>
@@ -109,15 +117,73 @@
       <option name="project" value="LOCAL" />
       <updated>1677646322722</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 12 added along with BlackJack and Dummy server">
+      <created>1679660408911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679660408911</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Day 17 added">
+      <created>1679660564239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679660564239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Day 17 added">
+      <created>1679660574384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679660574384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="066497dc-a563-453a-aeb0-40ab92e5b99d">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/100_Day_of_Code/Playwright" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -127,7 +193,8 @@
     <MESSAGE value="Day 5 programs added" />
     <MESSAGE value="Day 10 programs added" />
     <MESSAGE value="Day 12 added along with BlackJack and Dummy server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 12 added along with BlackJack and Dummy server" />
+    <MESSAGE value="Day 17 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 17 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

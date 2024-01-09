@@ -4,37 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 17 added">
-      <change afterPath="$PROJECT_DIR$/Day-20/snake.py" afterDir="false" />
+    <list default="true" id="6ff34b00-378a-4707-b13c-c5637b96a220" name="Changes" comment="Day 17 deleted">
+      <change afterPath="$PROJECT_DIR$/Day-20/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-20/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day-20/Snake_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-20/Snake_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/CHGPT_ISOSERVER.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/IFsameRequest_Client_UI.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/ISO8583_sim.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/IFsameRequest.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/IFsameRequest.exe.manifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/IFsameRequest.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/base_library.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/warn-IFsameRequest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/build/IFsameRequest/xref-IFsameRequest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/MockServer/dist/IFsameRequest.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/NewServerToWorkWithJson/Server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/SimpleServerISO8583.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISO_8583_Simulator/clientServer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playwright/Playwight_Mocha.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playwright/Playwright_Driect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playwright/chromedriver_win32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playwright/pytest.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Playwright/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver_win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-20/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-20/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702918039521</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 17 deleted">
+      <created>1704783945878</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704783945878</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,7 +229,8 @@
     <MESSAGE value="Day 10 programs added" />
     <MESSAGE value="Day 12 added along with BlackJack and Dummy server" />
     <MESSAGE value="Day 17 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 17 added" />
+    <MESSAGE value="Day 17 deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 17 deleted" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

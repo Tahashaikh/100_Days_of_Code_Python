@@ -1,5 +1,5 @@
 def check_if_number_is_prime(number):
-    for i in range(1, number):
+    for i in range(2, number):
         prime = True
         if number % i == 0 and i != number:
             prime = False
